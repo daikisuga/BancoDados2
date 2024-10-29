@@ -1,0 +1,6 @@
+Mongodb:
+{hist_aluno:{$exists:true}} (em collection alunos)
+{hist_professor:{$exists:true}} (em collection professores)
+{formado:1, formado ano:%ano%} (sendo que o semestre pode ser checado ao entrar em hist_aluno) (em collection alunos)
+{nome_chefe:{$exists:true},Nome:{$exists:true}} (em collection departamentos)
+{TCC:{$exists:true}} (em collection professores)
