@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "66fd2fab7e2bb1bcf40da9cd"
+  },
+  "Nome": "Eng. Eletr",
+  "Discip": [
+    {
+      "id_disc": "ee1",
+      "nome_disc": "elec1"
+    },
+    {
+      "id_disc": "ee2",
+      "nome_disc": "elec2"
+    },
+    {
+      "id_disc": "ee3",
+      "nome_disc": "elec3"
+    },
+    {
+      "id_disc": "ee4",
+      "nome_disc": "elec4"
+    }
+  ],
+  "id_chefe": 1,
+  "nome_chefe": "Ricardo",
+  "id_dept": 1
+},
+{
+  "_id": {
+    "$oid": "6705b1d75746cf5af9a2b217"
+  },
+  "Nome": "Ciencia da Computacao",
+  "Discip": [
+    {
+      "id_disc": "cc1",
+      "nome_disc": "comp1"
+    },
+    {
+      "id_disc": "cc2",
+      "nome_disc": "comp2"
+    },
+    {
+      "id_disc": "cc3",
+      "nome_disc": "comp3"
+    },
+    {
+      "id_disc": "cc4",
+      "nome_disc": "comp4"
+    }
+  ],
+  "id_chefe": 2,
+  "nome_chefe": "Leonardo",
+  "id_dept": 2
+},
+{
+  "_id": {
+    "$oid": "6705b3be5746cf5af9a2b218"
+  },
+  "Nome": "Eng. Quim",
+  "Discip": [
+    {
+      "id_disc": "eq1",
+      "nome_disc": "quim1"
+    },
+    {
+      "id_disc": "eq2",
+      "nome_disc": "quim2"
+    },
+    {
+      "id_disc": "eq3",
+      "nome_disc": "quim3"
+    },
+    {
+      "id_disc": "eq4",
+      "nome_disc": "quim4"
+    }
+  ],
+  "id_chefe": 3,
+  "nome_chefe": "Gustavo",
+  "id_dept": 3
+}]

@@ -1,0 +1,87 @@
+[{
+  "_id": {
+    "$oid": "66fc7be8f849aefe5577bde3"
+  },
+  "id_curso": "ee",
+  "nome_curso": "eletrica",
+  "MCC": [
+    {
+      "discs": [
+        {
+          "id_disc": "ee1",
+          "nome_disc": "elec1"
+        },
+        {
+          "id_disc": "ee2",
+          "nome_disc": "elec2"
+        },
+        {
+          "id_disc": "ee3",
+          "nome_disc": "elec3"
+        },
+        {
+          "id_disc": "ee4",
+          "nome_disc": "elec4"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6705a7797020deb409406b59"
+  },
+  "id_curso": "cc",
+  "nome_curso": "computacao",
+  "MCC": [
+    {
+      "discs": [
+        {
+          "id_disc": "cc1",
+          "nome_disc": "comp1"
+        },
+        {
+          "id_disc": "cc2",
+          "nome_disc": "comp2"
+        },
+        {
+          "id_disc": "cc3",
+          "nome_disc": "comp3"
+        },
+        {
+          "id_disc": "cc4",
+          "nome_disc": "comp4"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6705a7db7020deb409406b5a"
+  },
+  "id_curso": "eq",
+  "nome_curso": "quimica",
+  "MCC": [
+    {
+      "discs": [
+        {
+          "id_disc": "eq1",
+          "nome_disc": "quim1"
+        },
+        {
+          "id_disc": "eq2",
+          "nome_disc": "quim2"
+        },
+        {
+          "id_disc": "eq3",
+          "nome_disc": "quim3"
+        },
+        {
+          "id_disc": "eq4",
+          "nome_disc": "quim4"
+        }
+      ]
+    }
+  ]
+}]

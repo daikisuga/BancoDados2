@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "66f5b1d627f7560f02d6bfb0"
+  },
+  "Nome": "Sofia",
+  "RA": "123.123.123-0",
+  "Tot_cred": 5,
+  "formado": 0,
+  "hist_aluno": [
+    {
+      "id_disc": "ee1",
+      "ano": 2022,
+      "semestre": 0,
+      "nota": 7.2
+    }
+  ],
+  "formado_ano": 2022,
+  "ciclo": 1,
+  "id_curso": "ee",
+  "id_tcc": 1
+},
+{
+  "_id": {
+    "$oid": "6705a43b7020deb409406b56"
+  },
+  "Nome": "Miguel",
+  "RA": "310.047.562-7",
+  "Tot_cred": 5,
+  "formado": 0,
+  "hist_aluno": [
+    {
+      "id_disc": "ee1",
+      "ano": 2022,
+      "semestre": 0,
+      "nota": 6.5
+    }
+  ],
+  "formado_ano": 2022,
+  "ciclo": 1,
+  "id_curso": "ee",
+  "id_tcc": 7
+},
+{
+  "_id": {
+    "$oid": "6705a5a17020deb409406b57"
+  },
+  "Nome": "Clara",
+  "RA": "961.123.498-0",
+  "Tot_cred": 137,
+  "formado": 0,
+  "hist_aluno": [
+    {
+      "id_disc": "cc1",
+      "ano": 2023,
+      "semestre": 0,
+      "nota": 9.8
+    }
+  ],
+  "formado_ano": 2024,
+  "ciclo": 1,
+  "id_curso": "cc",
+  "id_tcc": 14
+},
+{
+  "_id": {
+    "$oid": "6705b72a4b8d1010d722dda7"
+  },
+  "Nome": "José",
+  "RA": "987.456.321-0",
+  "Tot_cred": 75,
+  "formado": 1,
+  "hist_aluno": [
+    {
+      "id_disc": "eq1",
+      "ano": 2021,
+      "semestre": 1,
+      "nota": 8
+    }
+  ],
+  "formado_ano": 2021,
+  "ciclo": 8,
+  "id_curso": "eq",
+  "id_tcc": 20
+},
+{
+  "_id": {
+    "$oid": "6705b7a54b8d1010d722dda8"
+  },
+  "Nome": "Pedro",
+  "RA": "034.794.239-0",
+  "Tot_cred": 39,
+  "formado": 0,
+  "hist_aluno": [
+    {
+      "id_disc": "cc2",
+      "ano": 2021,
+      "semestre": 1,
+      "nota": 7.3
+    }
+  ],
+  "formado_ano": 2022,
+  "ciclo": 6,
+  "id_curso": "eq",
+  "id_tcc": 5
+},
+{
+  "_id": {
+    "$oid": "6705b83d4b8d1010d722dda9"
+  },
+  "Nome": "Juliana",
+  "RA": "764.142.093-3",
+  "Tot_cred": 197,
+  "formado": 0,
+  "hist_aluno": [
+    {
+      "id_disc": "eq1",
+      "ano": 2021,
+      "semestre": 1,
+      "nota": 9
+    }
+  ],
+  "formado_ano": 2021,
+  "ciclo": 8,
+  "id_curso": "eq",
+  "id_tcc": 20
+}]
