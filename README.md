@@ -1,7 +1,9 @@
 # Integrantes:
 - Alan Daiki Suga (RA: 24.122.051-6)
 - Gustavo Gomes Barbosa (RA: 24.122.061-5)
+- Murilo Darce Borges Silva (RA: 24.122.031-8)
 - Pedro Munhoz Rosin (RA: 24.122.013-6)
+- Rodrigo Simões Ruy (RA: 24.122.092-0)
 
 # Diagrama Relacional:
 ![bancodedados drawio](https://github.com/pedromr10/BancoDados/assets/114040568/9059153b-ee55-4e72-8710-0819b6300483)
