@@ -7,6 +7,7 @@
 
 # Diagrama Relacional:
 ![bancodedados drawio](https://github.com/pedromr10/BancoDados/assets/114040568/9059153b-ee55-4e72-8710-0819b6300483)
+Este diagrama relacional é o do semestre passado, mas foi o no qual nos baseamos
 
 # Funcionamento:
 Nosso versionamento foi divido em cinco partes.
