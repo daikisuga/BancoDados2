@@ -10,4 +10,4 @@
 Este diagrama relacional é o do semestre passado, mas foi o qual nos baseamos
 
 # Funcionamento:
-O projeto possui três pastas, cada uma referente a um banco de dado em específico, em cada pasta estão localizadas, as queries, os arquivos utilizados e o banco em si, o projeto possui o README.md que possui os integrantes, diagrama e funcionamento, e o Queries.txt possui todas as queries utilizadas no projeto em si.
+O projeto possui três pastas, cada uma referente a um banco de dado em específico, em cada pasta estão localizadas, as queries, os arquivos utilizados e o banco em si, o projeto possui o README.md que possui os integrantes, diagrama e funcionamento, e o Queries.txt possui todas as queries utilizadas no projeto em si, o projeto possui outra branch, mas apenas a main foi utilizada.
